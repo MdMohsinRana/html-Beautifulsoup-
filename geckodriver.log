@@ -1,0 +1,6 @@
+1674113956928	geckodriver	INFO	Listening on 127.0.0.1:62822
+1674113957333	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62823" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/yh/yhwrw9vx6xnd0gr7k6kt012h0000gn/T/rust_mozprofile2KZdMd"
+1674113958018	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1674113958018	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1674113958018	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+** Unknown exception behavior: 0
